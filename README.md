@@ -1,7 +1,7 @@
 <!-- Header -->
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/kz9QFOnd16JC8FuZl5/giphy.gif" width="200"/>
+  <img src="https://static.wikia.nocookie.net/gensin-impact/images/0/0e/Character_Ganyu_Full_Wish.png/revision/latest/scale-to-width/360?cb=20220713045854" width="200"/>
   <div id="badges">
   <h1>
     Guan
