@@ -1,7 +1,12 @@
 <!-- Header -->
 
 <div id="header" align="center">
-  <img src="https://static.wikia.nocookie.net/gensin-impact/images/0/0e/Character_Ganyu_Full_Wish.png/revision/latest/scale-to-width/360?cb=20220713045854" width="200"/>
+  <div>
+    <img src="https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/ganyu/image.png?strip=all&quality=75&w=256" width="200"/>&nbsp;
+    <img src="https://static.wikia.nocookie.net/gensin-impact/images/0/0e/Character_Ganyu_Full_Wish.png/revision/latest/scale-to-width/360?cb=20220713045854" width="200"/>&nbsp;
+    <img src="https://www.pngall.com/wp-content/uploads/14/Ganyu-PNG-Image-File.png" width="200"/>&nbsp;
+    <img src="https://media.giphy.com/media/kz9QFOnd16JC8FuZl5/giphy.gif" width="200"/>&nbsp;
+  </div>
   <div id="badges">
   <h1>
     Guan
