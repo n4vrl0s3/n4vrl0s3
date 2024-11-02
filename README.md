@@ -18,9 +18,9 @@
 I am a Graphic Designer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
 - :telescope: I’m working as a Graphic Designer and contributing to Amalia Foundation for Orphanage.
 
-- :seedling: Exploring about how world works.
-
 - :zap: In my free time, I'm study about Tech and read novel.
+
+- :seedling: Exploring about how world works.
 
 - :mailbox:How to reach me: <a href="">Instagram</a>
 
@@ -50,7 +50,9 @@ I am a Graphic Designer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 <!-- Stats -->
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=guanshiyin28&theme=iceberg)](https://www.instagram.com/guanshiyin_/) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guanshiyin28&layout=compact&theme=tokyonight)](https://www.instagram.com/guanshiyin_/)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=guanshiyin28&theme=iceberg)](https://www.instagram.com/guanshiyin_/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guanshiyin28&layout=compact&theme=tokyonight)](https://www.instagram.com/guanshiyin_/)
 
 <!-- (https://git.io/streak-stats) -->
 
