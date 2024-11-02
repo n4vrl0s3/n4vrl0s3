@@ -28,6 +28,7 @@ I am a Graphic Designer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 ### :hammer_and_wrench: Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://seeklogo.com/images/K/kali-linux-logo-93027C57BD-seeklogo.com.png" title="Kali Linux" alt="kali Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Linux Ubuntu" alt="Linux Ubuntu" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
