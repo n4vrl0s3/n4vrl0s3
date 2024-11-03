@@ -73,9 +73,9 @@ I am a Graphic Designer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 <h5>
   Certifications
 </h5>
-  <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/HackerRank/Certifications/Python%20Basic%20Certificate.png" title="Python Basic" alt="Python Basic" height="200">&nbsp;
-  <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/HackerRank/Certifications/Problem%20Solving%20Basic.png" title="Problem Solving Basic" alt="Problem Solving Basic" height="200">&nbsp;
-  <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/HackerRank/Certifications/Angular%20Basic%20Certificate.png" title="Angular Basic" alt="Angular Basic" height="200">&nbsp;
+  <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/HackerRank/Certifications/Python%20Basic%20Certificate.png" title="Python Basic" alt="Python Basic" height="170">&nbsp;
+  <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/HackerRank/Certifications/Problem%20Solving%20Basic.png" title="Problem Solving Basic" alt="Problem Solving Basic" height="170">&nbsp;
+  <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/HackerRank/Certifications/Angular%20Basic%20Certificate.png" title="Angular Basic" alt="Angular Basic" height="170">&nbsp;
 <!--Sololearn-->
 <h4>
   <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/Sololearn/Sololearn.svg" width="15"> Sololearn <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/Sololearn/Sololearn.svg" width="15">
@@ -85,14 +85,14 @@ I am a Graphic Designer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 </h5>
 <!--Programming Languages-->
 <!--Intermediate-->
-  <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/Sololearn/Certificates/Programming%20languages/Intermediate/Angular.png" title="Angular" alt="Angular" height="200">&nbsp;
-  <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/Sololearn/Certificates/Programming%20languages/Intermediate/SQL%20Intermediate.png" title="SQL Intermediate" alt="SQL Intermediate" height="200">&nbsp;
+  <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/Sololearn/Certificates/Programming%20languages/Intermediate/Angular.png" title="Angular" alt="Angular" height="170">&nbsp;
+  <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/Sololearn/Certificates/Programming%20languages/Intermediate/SQL%20Intermediate.png" title="SQL Intermediate" alt="SQL Intermediate" height="170">&nbsp;
 <!--Beginner-->
-  <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/Sololearn/Certificates/Programming%20languages/Beginner/Introduction%20to%20SQL.png" title="Introduction to SQL" alt="Introduction to SQL" height="200">&nbsp;
-  <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/Sololearn/Certificates/Programming%20languages/Beginner/Introduction%20to%20C.png" title="Introduction to C" alt="Introduction to C" height="200">&nbsp;
-  <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/Sololearn/Certificates/Programming%20languages/Beginner/Introduction%20to%20C%23.png" title="Introduction to C#" alt="Introduction to C#" height="200">&nbsp;
-  <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/Sololearn/Certificates/Programming%20languages/Beginner/Introduction%20to%20Python.png" title="Introduction to Python" alt="Introduction to Python" height="200">&nbsp;
-  <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/Sololearn/Certificates/Programming%20languages/Beginner/Introduction%20to%20HTML.png" title="Introduction to HTML" alt="Introduction to HTML" height="200">&nbsp;
+  <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/Sololearn/Certificates/Programming%20languages/Beginner/Introduction%20to%20SQL.png" title="Introduction to SQL" alt="Introduction to SQL" height="170">&nbsp;
+  <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/Sololearn/Certificates/Programming%20languages/Beginner/Introduction%20to%20C.png" title="Introduction to C" alt="Introduction to C" height="170">&nbsp;
+  <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/Sololearn/Certificates/Programming%20languages/Beginner/Introduction%20to%20C%23.png" title="Introduction to C#" alt="Introduction to C#" height="170">&nbsp;
+  <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/Sololearn/Certificates/Programming%20languages/Beginner/Introduction%20to%20Python.png" title="Introduction to Python" alt="Introduction to Python" height="170">&nbsp;
+  <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/Sololearn/Certificates/Programming%20languages/Beginner/Introduction%20to%20HTML.png" title="Introduction to HTML" alt="Introduction to HTML" height="170">&nbsp;
   
   
 
