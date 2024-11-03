@@ -1,6 +1,6 @@
 <!-- Header -->
-
 <div id="header" align="center">
+  <!--Ganyu Photos-->
   <div>
     <img src="https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/ganyu/image.png?strip=all&quality=75&w=256" width="200"/>&nbsp;
     <img src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/ganyu/sticker_6.png?89b956340452584e02345f27c655093a&d=200x200" width="200"/>&nbsp;
@@ -13,8 +13,8 @@
   </h1>
 </div>
 
-
-### :woman_technologist: About Me :
+<!--About-->
+### :woman_technologist: About Me :woman_technologist:
 I am a Graphic Designer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
 - :telescope: I’m working as a Graphic Designer and contributing to Amalia Foundation for Orphanage.
 
@@ -24,8 +24,8 @@ I am a Graphic Designer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 - :mailbox:How to reach me: <a href="">Instagram</a>
 
-
-### :hammer_and_wrench: Languages and Tools:
+<!--Languages and Tools-->
+### :hammer_and_wrench: Languages and Tools :hammer_and_wrench:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://seeklogo.com/images/K/kali-linux-logo-93027C57BD-seeklogo.com.png" title="Kali Linux" alt="kali Linux" width="40" height="40"/>&nbsp;
@@ -48,17 +48,28 @@ I am a Graphic Designer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 </div>
 
 
-<!-- Stats -->
+<!--Stats-->
 
-### :fire: My Stats :
+### :fire: My Stats :fire:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=guanshiyin28&theme=iceberg)](https://www.instagram.com/guanshiyin_/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guanshiyin28&layout=compact&theme=tokyonight)](https://www.instagram.com/guanshiyin_/)
 
-<!-- (https://git.io/streak-stats) -->
+<!--(https://git.io/streak-stats)-->
 
+<!--Achievment-->
+### :medal_sports: My Achievment :medal_sports:
+<h4>
+  <img src="https://hrcdn.net/fcore/assets/favicon-ddc852f75a.png" width="15"> HackerRank <img src="https://hrcdn.net/fcore/assets/favicon-ddc852f75a.png" width="15">
+</h4>
+<h5>
+  Badges
+</h5>
+  <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/HackerRank/Badges/C%2B%2B%20Gold%20Badges.svg" width="80">&nbsp;
+  <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/HackerRank/Badges/C%20Gold%20Badges.svg" width="80">&nbsp;
+  
 
-
+<!--Footer-->
 <p align="center">
   <a href="https://www.instagram.com/guanshiyin_/">
      <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=20:72aae3,100:cadbf5&section=footer&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
