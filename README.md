@@ -65,8 +65,11 @@ I am a Graphic Designer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 <h5>
   Badges
 </h5>
-  <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/HackerRank/Badges/C%2B%2B%20Gold%20Badges.svg" width="80">&nbsp;
-  <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/HackerRank/Badges/C%20Gold%20Badges.svg" width="80">&nbsp;
+  <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/HackerRank/Badges/C%20Gold%20Badges.svg" title="C" alt="C" height="80" width="80">&nbsp;
+  <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/HackerRank/Badges/C%2B%2B%20Gold%20Badges.svg" title="C++" alt="C++" height="80" width="80">&nbsp;
+  <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/HackerRank/Badges/Python%20Gold%20Badges.svg" title="Python" alt="Python" height="80" width="80">&nbsp;
+  <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/HackerRank/Badges/Problem%20Solving%20Gold%20Badges.svg" title="Problem Solving" alt="Problem Solving" height="80" width="80">&nbsp;
+
   
 
 <!--Footer-->
