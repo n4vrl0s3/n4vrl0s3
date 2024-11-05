@@ -58,16 +58,16 @@ I am a Graphic Designer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
   <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/tailwindcss.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
 <h4>
-  Libraries
-</h4>
-  <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/react.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-<h4>
   Tools
 </h4>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+<h4>
+  Libraries
+</h4>
+  <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/react.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 <h4>
   IDE
 </h4>
