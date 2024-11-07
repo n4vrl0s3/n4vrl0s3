@@ -114,7 +114,7 @@ I am a Graphic Designer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 <h5>
   Certifications
 </h5>
-<!--Programming Languages-->
+<!--Programming Languages--
 <!--Intermediate-->
   <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/Sololearn/Certificates/Programming%20languages/Intermediate/Angular.png" title="Angular" alt="Angular" height="170">&nbsp;
   <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/Sololearn/Certificates/Programming%20languages/Intermediate/SQL%20Intermediate.png" title="SQL Intermediate" alt="SQL Intermediate" height="170">&nbsp;
