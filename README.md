@@ -118,7 +118,7 @@ I am a Graphic Designer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 <!--Intermediate-->
   <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/Sololearn/Certificates/Programming%20languages/Intermediate/Angular.png" title="Angular" alt="Angular" height="170">&nbsp;
   <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/Sololearn/Certificates/Programming%20languages/Intermediate/SQL%20Intermediate.png" title="SQL Intermediate" alt="SQL Intermediate" height="170">&nbsp;
-<!--Beginner-->
+<!--Beginner--
   <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/Sololearn/Certificates/Programming%20languages/Beginner/Introduction%20to%20SQL.png" title="Introduction to SQL" alt="Introduction to SQL" height="170">&nbsp;
   <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/Sololearn/Certificates/Programming%20languages/Beginner/Introduction%20to%20C.png" title="Introduction to C" alt="Introduction to C" height="170">&nbsp;
   <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/Sololearn/Certificates/Programming%20languages/Beginner/Introduction%20to%20C%23.png" title="Introduction to C#" alt="Introduction to C#" height="170">&nbsp;
