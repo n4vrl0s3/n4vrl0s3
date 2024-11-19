@@ -167,7 +167,7 @@
 <!--Sololearn End-->
   
 <!--Gap-->
-<hr><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<hr><br>
 <!--Gap End-->
 
 <!--Footer-->
