@@ -7,6 +7,7 @@
     <img src="https://i.pinimg.com/originals/4a/37/17/4a37171e8b80a667195f37e0240c3464.png" width="200"/>&nbsp;
     <img src="https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/ganyu/image.png?strip=all&quality=75&w=256" width="200"/>&nbsp;
   </div>
+  <hr>
   <div>
     <h1>
       Guanshiyin
@@ -19,7 +20,7 @@
 <!--Header End-->
 
 <!--Gap-->
-<hr><br><br>
+<br><br>
 <!--Gap End-->
 
 <!--About-->
@@ -38,7 +39,7 @@
 <!--About End-->
 
 <!--Gap-->
-<hr><br>
+<br>
 <!--Gap End-->
 
 <!--Languages and Tools-->
@@ -102,7 +103,7 @@
 <!--Languages and Tools End-->
 
 <!--Gap-->
-<hr><br>
+<br>
 <!--Gap End-->
 
 <!--Stats-->
@@ -118,7 +119,7 @@
 <!--Stats End-->
 
 <!--Gap-->
-<hr><br>
+<br>
 <!--Gap End-->
 
 <!--Achievment-->
@@ -167,7 +168,7 @@
 <!--Sololearn End-->
   
 <!--Gap-->
-<hr><br>
+<br><br>
 <!--Gap End-->
 
 <!--Footer-->
