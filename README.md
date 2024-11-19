@@ -28,12 +28,8 @@
   <h2>
     About Me
   </h2>
-  <p>
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Graphic Designer & UI/UX Design from Indonesia. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
-    :telescope: I’m working as a Graphic Designer and contributing to Amalia Foundation for Orphanage. :telescope:<br>
-    :zap: In my free time, I'm study about Tech and read novel. :zap:<br>
-    :seedling: Exploring about how world works. :seedling:<br>
-    :mailbox: How to reach me: <a href="https://www.instagram.com/guanshiyin_/" target="_blank">Instagram</a> :mailbox:
+  <p align="justify">
+    From Indonesia :indonesia:, I wear two hats: Graphic Designer and UI/UX Designer.   Currently, I'm putting my skills to good use at the Amalia Foundation for Orphanage.  In my free time, you'll find me exploring the world of technology , getting lost in a good novel , or simply pondering the universe's mysteries. Feel free to connect with me on <a href="https://instagram.com/guanshiyin_">Instagram!</a>
   <p>
 </div>
 <!--About End-->
