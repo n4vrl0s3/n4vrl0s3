@@ -47,16 +47,12 @@
     <h3>
       Languages
     </h3>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" title="Haskell" alt="Haskell" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
-      <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/java.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
+      <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/java.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
       <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/python.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
@@ -71,7 +67,6 @@
     <h3>
       Frameworks
     </h3>
-      <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/angular.gif" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
       <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/tailwindcss.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
@@ -117,55 +112,6 @@
 
 <!--Gap-->
 <br>
-<!--Gap End-->
-
-<!--Achievment-->
-<div align="center">
-  <h2>
-    :medal_sports: My Achievment :medal_sports:
-  </h2>
-<!--HackerRank-->
-  <h3>
-    <img src="https://hrcdn.net/fcore/assets/favicon-ddc852f75a.png" width="15"> HackerRank <img src="https://hrcdn.net/fcore/assets/favicon-ddc852f75a.png" width="15">
-  </h3>
-    <h4>
-      Badges
-    </h4>
-      <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/HackerRank/Badges/C%20Gold%20Badges.svg" title="C" alt="C" height="80" width="80">&nbsp;
-      <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/HackerRank/Badges/C%2B%2B%20Gold%20Badges.svg" title="C++" alt="C++" height="80" width="80">&nbsp;
-      <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/HackerRank/Badges/Python%20Gold%20Badges.svg" title="Python" alt="Python" height="80" width="80">&nbsp;
-      <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/HackerRank/Badges/Problem%20Solving%20Gold%20Badges.svg" title="Problem Solving" alt="Problem Solving" height="80" width="80">&nbsp;
-    <h4>
-      Certifications
-    </h4>
-      <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/HackerRank/Certifications/Python%20Basic%20Certificate.png" title="Python Basic" alt="Python Basic" height="170">&nbsp;
-      <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/HackerRank/Certifications/Problem%20Solving%20Basic.png" title="Problem Solving Basic" alt="Problem Solving Basic" height="170">&nbsp;
-      <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/HackerRank/Certifications/Angular%20Basic%20Certificate.png" title="Angular Basic" alt="Angular Basic" height="170">&nbsp;
-<!--HackerRank End-->
-<!--Sololearn-->
-  <h3>
-    <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/Sololearn/Sololearn.svg" width="15"> Sololearn <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/Sololearn/Sololearn.svg" width="15">
-  </h3>
-    <h4>
-      Certifications
-    </h4>
-    <!--Programming Languages-->
-    <!--Intermediate-->
-      <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/Sololearn/Certificates/Programming%20languages/Intermediate/Angular.png" title="Angular" alt="Angular" height="170">&nbsp;
-      <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/Sololearn/Certificates/Programming%20languages/Intermediate/SQL%20Intermediate.png" title="SQL Intermediate" alt="SQL Intermediate" height="170">&nbsp;
-    <!--Intermediate End-->
-    <!--Beginner-->
-      <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/Sololearn/Certificates/Programming%20languages/Beginner/Introduction%20to%20SQL.png" title="Introduction to SQL" alt="Introduction to SQL" height="170">&nbsp;
-      <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/Sololearn/Certificates/Programming%20languages/Beginner/Introduction%20to%20C.png" title="Introduction to C" alt="Introduction to C" height="170">&nbsp;
-      <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/Sololearn/Certificates/Programming%20languages/Beginner/Introduction%20to%20C%23.png" title="Introduction to C#" alt="Introduction to C#" height="170">&nbsp;
-      <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/Sololearn/Certificates/Programming%20languages/Beginner/Introduction%20to%20Python.png" title="Introduction to Python" alt="Introduction to Python" height="170">&nbsp;
-      <img src="https://github.com/guanshiyin28/guanshiyin28/blob/main/Sololearn/Certificates/Programming%20languages/Beginner/Introduction%20to%20HTML.png" title="Introduction to HTML" alt="Introduction to HTML" height="170">&nbsp;
-    <!--Beginner End-->
-    <!--Programming Languages End-->
-<!--Sololearn End-->
-  
-<!--Gap-->
-<br><br>
 <!--Gap End-->
 
 <!--Footer-->
