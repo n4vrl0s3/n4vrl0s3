@@ -2,10 +2,7 @@
 <div align="center">
   <!--Ganyu Photos-->
   <div>
-    <img src="https://static.wikia.nocookie.net/gensin-impact/images/6/61/Twilight_Blossom_Icon.png/revision/latest/scale-to-width-down/250?cb=20240131020715" width="200"/>&nbsp;
-    <img src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/ganyu/sticker_6.png?89b956340452584e02345f27c655093a&d=200x200" width="200"/>&nbsp;
-    <img src="https://i.pinimg.com/originals/4a/37/17/4a37171e8b80a667195f37e0240c3464.png" width="200"/>&nbsp;
-    <img src="https://i2.wp.com/genshinbuilds.aipurrjects.com/genshin/characters/ganyu/image.png?strip=all&quality=75&w=256" width="200"/>&nbsp;
+    <img src="https://i.pinimg.com/originals/4a/37/17/4a37171e8b80a667195f37e0240c3464.png" width="200"/>
   </div>
   <hr>
   <div>
