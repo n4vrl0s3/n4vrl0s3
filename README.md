@@ -95,6 +95,8 @@
   </h2>
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=guanshiyin28&theme=iceberg)](https://www.instagram.com/guanshiyin_/) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guanshiyin28&layout=compact&theme=tokyonight)](https://www.instagram.com/guanshiyin_/)
+
+  ![snake gif](https://github.com/guanshiyin28/guanshiyin28/blob/output/github-contribution-grid-snake.svg)
 </div>
 <!--Stats End-->
 
