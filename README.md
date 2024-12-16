@@ -94,9 +94,18 @@
     :fire: My Stats :fire:
   </h2>
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=guanshiyin28&theme=iceberg)](https://www.instagram.com/guanshiyin_/) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guanshiyin28&layout=compact&theme=tokyonight)](https://www.instagram.com/guanshiyin_/)
-
-  ![snake gif](https://github.com/guanshiyin28/guanshiyin28/blob/output/github-contribution-grid-snake.svg)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guanshiyin28&layout=compact&theme=tokyonight)](https://www.instagram.com/guanshiyin_/)
+  
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=guanshiyin28&show_icons=true&theme=tokyonight">
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=guanshiyin28&theme=iceberg)](https://www.instagram.com/guanshiyin_/)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guanshiyin28&theme=tokyo-night&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"></img>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=guanshiyin28"></img>
+  
+  <p align="center">
+   <img width="1000" src="assets/snake.svg" alt="snake"/>
+  </p>
 </div>
 <!--Stats End-->
 
