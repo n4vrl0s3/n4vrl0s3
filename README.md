@@ -49,6 +49,8 @@ From Indonesia :indonesia:, I wear two hats: Graphic Designer and UI/UX Designer
 <img src="https://github.com/devicons/devicon/blob/master/icons/alpinejs/alpinejs-original.svg" title="alpinejs" alt="alpinejs" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/tailwindcss.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+<img src="https://gsap.com/favicon-32x32.png" title="GSAP" alt="GSAP" width="40" height="40"/>&nbsp;
+<img src="https://lenis.darkroom.engineering/favicon-32x32.png" title="Lenis" alt="Lenis" width="40" height="40"/>&nbsp;
 
 ### IDE
 
