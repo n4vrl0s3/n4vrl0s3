@@ -1,7 +1,6 @@
 <div align=center>
 
-![Jane Doe](https://github.com/user-attachments/assets/f9bd81ef-8a73-42f4-a00b-5960421f481b)
-
+![Jane Doe Banner](https://github.com/user-attachments/assets/d903e85f-776f-4401-8a35-c08d90672221)
 
 # Guanshiyin
 
