@@ -1,6 +1,7 @@
 <div align=center>
-  
-![Ganyu](https://github.com/user-attachments/assets/87899309-a1b9-4528-bb68-5e8763cda1cb)
+
+![Jane Doe](https://github.com/user-attachments/assets/f9bd81ef-8a73-42f4-a00b-5960421f481b)
+
 
 # Guanshiyin
 
