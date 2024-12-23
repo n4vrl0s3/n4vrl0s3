@@ -1,7 +1,6 @@
 <div align=center>
 
-![Jane Doe](https://github.com/user-attachments/assets/f9bd81ef-8a73-42f4-a00b-5960421f481b)
-
+![Jane Doe Banner](https://github.com/user-attachments/assets/6dce4a9a-c124-413d-816b-a0ea878a6cd9)
 
 # Guanshiyin
 
@@ -80,8 +79,8 @@ From Indonesia :indonesia:, I wear two hats: Graphic Designer and UI/UX Designer
 <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=guanshiyin28&show_icons=true&theme=tokyonight">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=guanshiyin28&theme=iceberg)](https://www.instagram.com/guanshiyin_/)
-<img src="https://github-profile-trophy.vercel.app/?username=guanshiyin28">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=guanshiyin28&theme=tokyo-night&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
+<img src="https://github-profile-trophy.vercel.app/?username=guanshiyin28">
 <img width="1000" src="assets/snake.svg" alt="snake"/>
 
 </div>
