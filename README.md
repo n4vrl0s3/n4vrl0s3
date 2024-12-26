@@ -1,6 +1,9 @@
 <div align=center>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=20:FF0000,100:F0F0F0&section=footer&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
+  
 ![Jane Doe Banner](https://github.com/user-attachments/assets/6dce4a9a-c124-413d-816b-a0ea878a6cd9)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=20:FF0000,100:F0F0F0&section=header&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
+
 
 # Guanshiyin
 
@@ -75,13 +78,13 @@ From Indonesia :indonesia:, I wear two hats: Graphic Designer and UI/UX Designer
   
 ## My Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guanshiyin28&layout=compact&theme=tokyonight)](https://www.instagram.com/guanshiyin_/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guanshiyin28&layout=donut&theme=dracula)](https://github.com/guanshiyin28/)
 
-<img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=guanshiyin28&show_icons=true&theme=tokyonight">
+<img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=guanshiyin28&show_icons=true&theme=dracula">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=guanshiyin28&theme=iceberg)](https://www.instagram.com/guanshiyin_/)
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=guanshiyin28&theme=tokyo-night&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
-<img src="https://github-profile-trophy.vercel.app/?username=guanshiyin28">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=guanshiyin28&theme=dracula)](https://www.instagram.com/guanshiyin_/)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=guanshiyin28&theme=dracula&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
+<img src="https://github-profile-trophy.vercel.app/?username=guanshiyin28&theme=dracula">
 <img width="1000" src="assets/snake.svg" alt="snake"/>
 
 </div>
@@ -89,6 +92,6 @@ From Indonesia :indonesia:, I wear two hats: Graphic Designer and UI/UX Designer
 
 <div align="center">
   <a href="https://www.instagram.com/guanshiyin_/">
-     <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=20:72aae3,100:cadbf5&section=footer&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
+     <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=20:FF0000,100:F0F0F0&section=footer&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
   </a>
 </div>
