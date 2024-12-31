@@ -1,7 +1,8 @@
 <div align=center>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=100:FF0000,20:F0F0F0&section=footer&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
   
-![Jane Doe Banner](https://github.com/user-attachments/assets/2110bd56-a278-464b-b82c-1979ec30840b)
+![Jane Doe](https://github.com/user-attachments/assets/c07fe3f9-357a-4e26-a155-5a9b4d711f77)
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=20:FF0000,100:F0F0F0&section=header&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
 
 
