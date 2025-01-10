@@ -10,17 +10,16 @@
 </div>
 <div align=justify>
 Welcome! I'm Guan, a professional Graphic Design & UI/UX Design with a knack for crafting visually stunning and highly functional websites or design. Combining creativity and technical expertise. I transform your vision into digital masterpiece that excels in both appearance and performance.
-</div>
+  
 <hr><br>
 
 <div align=center>
   
 ## About Me
 
-</div>
 <div align=justify>
 From Indonesia :indonesia:, I wear two hats: Graphic Designer and UI/UX Designer.   Currently, I'm putting my skills to good use at the Amalia Foundation for Orphanage.  In my free time, you'll find me exploring the world of technology , getting lost in a good novel , or simply pondering the universe's mysteries. Feel free to connect with me on <a href="https://instagram.com/guanshiyin_">Instagram!</a>
-</div>
+  
 <hr><br>
 
 <div align=center>
@@ -71,11 +70,8 @@ From Indonesia :indonesia:, I wear two hats: Graphic Designer and UI/UX Designer
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
 
-</div>
 <hr><br>
 
-<div align=center>
-  
 ## My Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guanshiyin28&layout=donut&theme=tokyonight)](https://github.com/guanshiyin28/)
@@ -87,11 +83,8 @@ From Indonesia :indonesia:, I wear two hats: Graphic Designer and UI/UX Designer
 <img src="https://github-profile-trophy.vercel.app/?username=guanshiyin28">
 <img width="1000" src="assets/snake.svg" alt="snake"/>
 
-</div>
 <hr><br>
 
-<div align=center>
-  <a href="https://www.instagram.com/guanshiyin_/">
-     <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=100:FF0000,20:F0F0F0&section=footer&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
-  </a>
-</div>
+<a href="https://www.instagram.com/guanshiyin_/">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=100:FF0000,20:F0F0F0&section=footer&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
+</a>
