@@ -1,7 +1,7 @@
 <div align=center>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=100:393E46,20:F7F7F7&section=footer&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
   
-![Jane Doe](https://github.com/user-attachments/assets/6dce4a9a-c124-413d-816b-a0ea878a6cd9)
+![Zani](https://github.com/user-attachments/assets/ae942a31-0c6e-4ce4-ba26-cf07686d308e)
 <img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=100:393E46,20:F7F7F7&section=header&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
 
 
