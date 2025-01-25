@@ -1,7 +1,7 @@
 <div align=center>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=100:393E46,20:F7F7F7&section=footer&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
   
-![Zani](https://github.com/user-attachments/assets/ae942a31-0c6e-4ce4-ba26-cf07686d308e)
+![Zani](https://github.com/user-attachments/assets/9a0238c1-e3e9-4dd6-a03f-f1e32bdadd17)
 <img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=100:393E46,20:F7F7F7&section=header&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
 
 
