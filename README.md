@@ -1,6 +1,6 @@
 <div align=center>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=100:393E46,20:F7F7F7&section=footer&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
-<img src="https://github.com/n4vrl0s3/n4vrl0s3/blob/master/assets/3435465432313245.jpg"/>
+<img src="https://github.com/n4vrl0s3/n4vrl0s3/blob/master/assets/DedSec.jpg"/>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=20:393E46,100:F7F7F7&section=header&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
 
 # Guanshiyin
