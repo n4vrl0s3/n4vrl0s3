@@ -1,7 +1,7 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Guan";
+    std::cout << "Yansha";
 
     return 0;
 }

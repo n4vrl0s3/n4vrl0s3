@@ -1,2 +1,0 @@
-message <-"Guan"
-print(message)
