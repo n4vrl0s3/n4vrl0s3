@@ -1,7 +1,7 @@
 <div align=center>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=100:393E46,20:F7F7F7&section=footer&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
   
-![Zani](https://github.com/user-attachments/assets/9a0238c1-e3e9-4dd6-a03f-f1e32bdadd17)
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=20:393E46,100:F7F7F7&section=header&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
 
 # Guanshiyin
@@ -74,9 +74,9 @@ From Indonesia :indonesia:, I wear two hats: Graphic Designer and UI/UX Designer
 ## My Stats
 
 <h3>Visitor count</h3>
-<img src="https://profile-counter.glitch.me/guanshiyin28/count.svg" alt="Visitor's Count" />
+<img src="https://profile-counter.glitch.me/n4vrl0s3/count.svg" alt="Visitor's Count" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guanshiyin28&layout=donut&theme=tokyonight)](https://github.com/n4vrl0s3/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n4vrl0s3&layout=donut&theme=tokyonight)](https://github.com/n4vrl0s3/)
 
 <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=guanshiyin28&show_icons=true&theme=tokyonight">
 
