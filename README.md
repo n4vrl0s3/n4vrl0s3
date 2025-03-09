@@ -72,9 +72,6 @@ From Indonesia :indonesia:, I wear two hats: Graphic Designer and UI/UX Designer
 
 ## My Stats
 
-<h3>Visitor count</h3>
-<img src="https://profile-counter.glitch.me/n4vrl0s3/count.svg" alt="Visitor's Count" />
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n4vrl0s3&layout=donut&theme=tokyonight)](https://github.com/n4vrl0s3/)
 
 <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=guanshiyin28&show_icons=true&theme=tokyonight">
