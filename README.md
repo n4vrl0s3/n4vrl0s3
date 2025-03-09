@@ -4,12 +4,11 @@
 ![Zani](https://github.com/user-attachments/assets/9a0238c1-e3e9-4dd6-a03f-f1e32bdadd17)
 <img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=20:393E46,100:F7F7F7&section=header&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
 
-
 # Guanshiyin
 
 </div>
 <div align=justify>
-Welcome! I'm Guan, a professional Graphic Design & UI/UX Design with a knack for crafting visually stunning and highly functional websites or design. Combining creativity and technical expertise. I transform your vision into digital masterpiece that excels in both appearance and performance.
+Welcome! I'm Yansha, a professional Graphic Design & UI/UX Design with a knack for crafting visually stunning and highly functional websites or design. Combining creativity and technical expertise. I transform your vision into digital masterpiece that excels in both appearance and performance.
   
 <hr><br>
 
@@ -18,7 +17,7 @@ Welcome! I'm Guan, a professional Graphic Design & UI/UX Design with a knack for
 ## About Me
 
 <div align=justify>
-From Indonesia :indonesia:, I wear two hats: Graphic Designer and UI/UX Designer.   Currently, I'm putting my skills to good use at the Amalia Foundation for Orphanage.  In my free time, you'll find me exploring the world of technology , getting lost in a good novel , or simply pondering the universe's mysteries. Feel free to connect with me on <a href="https://instagram.com/guanshiyin_">Instagram!</a>
+From Indonesia :indonesia:, I wear two hats: Graphic Designer and UI/UX Designer.   Currently, I'm putting my skills to good use at the Amalia Foundation for Orphanage.  In my free time, you'll find me exploring the world of technology , getting lost in a good novel , or simply pondering the universe's mysteries. Feel free to connect with me on <a href="https://instagram.com/n4vrl0s3">Instagram!</a>
   
 <hr><br>
 
@@ -77,17 +76,17 @@ From Indonesia :indonesia:, I wear two hats: Graphic Designer and UI/UX Designer
 <h3>Visitor count</h3>
 <img src="https://profile-counter.glitch.me/guanshiyin28/count.svg" alt="Visitor's Count" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guanshiyin28&layout=donut&theme=tokyonight)](https://github.com/guanshiyin28/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guanshiyin28&layout=donut&theme=tokyonight)](https://github.com/n4vrl0s3/)
 
 <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=guanshiyin28&show_icons=true&theme=tokyonight">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=guanshiyin28&theme=tokyonight)](https://www.instagram.com/guanshiyin_/)
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=guanshiyin28&theme=tokyo-night&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
-<img src="https://github-profile-trophy.vercel.app/?username=guanshiyin28">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=n4vrl0s3&theme=tokyonight)](https://www.instagram.com/n4vrl0s3/)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=n4vrl0s3&theme=tokyo-night&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
+<img src="https://github-profile-trophy.vercel.app/?username=n4vrl0s3">
 <img width="1000" src="assets/snake.svg" alt="snake"/>
 
 <hr><br>
 
-<a href="https://www.instagram.com/guanshiyin_/">
+<a href="https://www.instagram.com/n4vrl0s3/">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=100:393E46,20:F7F7F7&section=footer&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
 </a>
