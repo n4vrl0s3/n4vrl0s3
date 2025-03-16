@@ -38,7 +38,7 @@ From Indonesia :indonesia:, I wear two hats: Graphic Designer and UI/UX Designer
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Linux Ubuntu" alt="Linux Ubuntu" width="40" height="40"/>&nbsp;
-<img src="https://seeklogo.com/images/K/kali-linux-logo-93027C57BD-seeklogo.com.png" title="Kali Linux" alt="kali Linux" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="Arch Linux" alt="Arch Linux" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
 
 ### Frameworks & Libraries
