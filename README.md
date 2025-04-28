@@ -1,13 +1,15 @@
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=100:393E46,20:F7F7F7&section=footer&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
-<img src="https://github.com/n4vrl0s3/n4vrl0s3/blob/master/assets/Dedsec.jpg"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=20:393E46,100:F7F7F7&section=header&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=100:49108B,20:F3F8FF&section=footer&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
+
+  ![Raiden Ei](https://github.com/user-attachments/assets/f82d82ca-7176-4771-b6ea-11830cf463b8)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=20:49108B,100:F3F8FF&section=header&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
 
 # Yansha
 
 </div>
 <div align=justify>
-Welcome! I'm Yansha, a professional Graphic Design & UI/UX Design with a knack for crafting visually stunning and highly functional websites or design. Combining creativity and technical expertise. I transform your vision into digital masterpiece that excels in both appearance and performance.
+Welcome! I'm Yansha, a dedicated Graphic and UI/UX Designer with expertise in creating visually striking and user-friendly designs. By combining creative vision with technical proficiency, I turn your ideas into digital masterpieces that not only look stunning but also perform flawlessly. Let’s collaborate to bring your vision to life!
   
 <hr><br>
 
@@ -16,7 +18,7 @@ Welcome! I'm Yansha, a professional Graphic Design & UI/UX Design with a knack f
 ## About Me
 
 <div align=justify>
-From Indonesia :indonesia:, I wear two hats: Graphic Designer and UI/UX Designer.   Currently, I'm putting my skills to good use at the Amalia Foundation for Orphanage.  In my free time, you'll find me exploring the world of technology , getting lost in a good novel , or simply pondering the universe's mysteries. Feel free to connect with me on <a href="https://instagram.com/n4vrl0s3">Instagram!</a>
+Based in Indonesia 🇮🇩, I proudly wear two hats: Graphic Designer and UI/UX Designer. When I’m not designing, I dive into the world of technology, lose myself in captivating novels, or reflect on the fascinating mysteries of the universe. Let’s connect—find me on <a href="https://instagram.com/n4vrl0s3">Instagram!</a>
   
 <hr><br>
 
@@ -33,12 +35,14 @@ From Indonesia :indonesia:, I wear two hats: Graphic Designer and UI/UX Designer
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
 
 ### Operation System
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Linux Ubuntu" alt="Linux Ubuntu" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="Arch Linux" alt="Arch Linux" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Debian" alt="Debian" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
 
 ### Frameworks & Libraries
@@ -84,5 +88,5 @@ From Indonesia :indonesia:, I wear two hats: Graphic Designer and UI/UX Designer
 <hr><br>
 
 <a href="https://www.instagram.com/n4vrl0s3/">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=100:393E46,20:F7F7F7&section=footer&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=100:49108B,20:F3F8FF&section=footer&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
 </a>
