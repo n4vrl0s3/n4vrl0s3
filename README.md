@@ -87,6 +87,6 @@ Based in Indonesia 🇮🇩, I proudly wear two hats: Graphic Designer and UI/UX
 
 <hr><br>
 
-<a href="https://www.instagram.com/n4vrl0s3/">
+<a href="https://www.x.com/n4vrl0s3/">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=100:49108B,20:F3F8FF&section=footer&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
 </a>
